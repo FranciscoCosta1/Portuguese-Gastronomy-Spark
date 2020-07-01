@@ -11,4 +11,7 @@ In this 21st century, as we witness the transformation of the modern society int
 Objective: We aimed to analyze Portuguese gastronomy using Big Data technologies (Spark).
 
 ## Why Spark?
-It enables a unified platform for: (1) distributed storage and processing of tabular structures (DataFrames), (2) the use of parallel processing of our natural language processing algorithm, and (3) the integration of graph structures and algorithms.
+It enables a unified platform for: 
+  * **(1) distributed storage and processing of tabular structures (DataFrames)**; 
+  * **(2) the use of parallel processing of our natural language processing algorithm**; 
+  * **(3) the integration of graph structures and algorithms**.
